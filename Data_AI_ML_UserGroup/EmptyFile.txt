@@ -1,2 +1,0 @@
-# Data AI and ML User Group Presentations
-This folder contains all my presentations done for the Data, AI and ML user group events.
